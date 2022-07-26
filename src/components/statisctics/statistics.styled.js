@@ -10,6 +10,7 @@ export const StatisticsSection = styled.section`
   border: 1px solid transparent;
   padding-top: 0;
   box-sizing: border-box;
+  overflow: hidden;
 `;
 
 export const Title = styled.h2`

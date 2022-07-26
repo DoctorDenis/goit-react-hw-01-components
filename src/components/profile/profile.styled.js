@@ -10,6 +10,7 @@ export const ProfileCard = styled.div`
   width: fit-content;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 `;
 
 export const ProfileDescription = styled.div`
